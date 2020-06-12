@@ -2,10 +2,10 @@
 Progetto sull'apprendimento della struttura di reti Bayesiane per l'esame di Intelligenza Artificiale.
 
 ## Riferimenti a fonti esterne
-I riferimenti a fonti esterne possono essere consultati nel file *Structure_Learning_in_Bayesian_Network.pdf*.
+I riferimenti a fonti esterne possono essere consultati nel file **Structure_Learning_in_Bayesian_Network.pdf**.
 
 ## Utilizzo
-Per utilizzare il codice sarà sufficente eseguire il codice contenuto nel file *Main.py*.
+Per utilizzare il codice sarà sufficente eseguire il codice contenuto nel file **Main.py**.
 Breve descrizione dei vari file di progetto:
 
 ### BayesianNet.py
