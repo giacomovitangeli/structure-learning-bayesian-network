@@ -37,7 +37,7 @@ Si occupa di identificare i **campi del nodo**:
 * `cpt`: vettore delle probabilità condizionate.
 * `domain_values`: dominio dei valori ammissibili per il nodo nel dataset.
 * `color`: colore, utile per l'ordinamento topologico.
-* `f`: tempo di fine, utile per l'ordinamento topologico.
+* `f`: tempo di fine scoperta, utile per l'ordinamento topologico.
 
 ### StructureLearning.py
 Il cuore del progetto.\
