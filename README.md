@@ -6,7 +6,7 @@ I riferimenti a fonti esterne possono essere consultati nel file **Structure_Lea
 
 ## Utilizzo
 Per utilizzare il codice sarà sufficente eseguire il codice contenuto nel file **Main.py**.
-Breve descrizione dei vari file di progetto:
+\\Breve descrizione dei vari file di progetto:
 
 ### BayesianNet.py
 Questo file si occupa della generazione della rete Bayesiana e della sua **matrice di adiacenza** partendo da un modello.
